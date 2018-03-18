@@ -2,6 +2,8 @@
 
 After the Weiss Ratings fiasco, I realized many people wanted an actual, objective rating system that made sense. KORS is designed to be exactly this - and designed so that anyone can verify, modify and contribute to. In effect, KORS is a cryptocurrency rating system created to follow the open-source vision.
 
+THIS PROJECT IS ***NOT*** COMPLETE. MOST OF THE METRICS ARE NOT EVEN DONE YET. DON'T USE THESE RATINGS FOR ANYTHING IMPORTANT.
+
 Within KORS, there are two types of ratings: weighted and unweighted. Weighted multiplies each category by a weight value according to its importance, whereas unweighted keeps all categories equal. No rating category may exceed the range [0,10] at any time (excepting penalties), and a mathematically calculated value should be restricted to this range if it exceeds it.
 
 # Commits per month
