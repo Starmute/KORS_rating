@@ -43,3 +43,21 @@
 - Security (is there a trusted setup? are hardware wallets available? what kind of consensus system (PoW>others in terms of security))
 
 - Degree of censorship-resistance (what would a state-level entity have to do to shut it down?)
+
+Ideas from YLoponom:
+
+- charts (like cmc, but ranked by KORS)
+- growth # of wallets/users per week/month/year and trend (if known) <-  like cmc instead of 1h/24h/7d
+- # of used wallets per week/month/year (if known)
+- available use cases (big brands/partnerships = 10, small/large onlineshops = 1-10, darknet = 5, debit credit cards = 5)?
+- distribution of a coin - if known (mostly wales and/or large wallets = 0) 
+- future outlook and plans / exclusive use-cases / roadmap (team delivers promises?)
+- official mobile and/or web wallets 
+- easy to use/buy/spend (specially for women and non-tech ppl)
+- volatility
+- brand / age / publicity / "ceo"
+- launch type: not sold out ico - 2.5
+- marketing
+- sort by type (currency, contracts/platform, app, infrastructure, ponzi = -10, ...)
+
+
