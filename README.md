@@ -6,6 +6,8 @@ THIS PROJECT IS ***NOT*** COMPLETE. MOST OF THE METRICS ARE NOT EVEN DONE YET. D
 
 Within KORS, there are two types of ratings: weighted and unweighted. Weighted multiplies each category by a weight value according to its importance, whereas unweighted keeps all categories equal. No rating category may exceed the range [0,10] at any time (excepting penalties), and a mathematically calculated value should be restricted to this range if it exceeds it.
 
+Beyond these, we also propose quantitative and qualitative categories. One can choose to exclude either, as the qualitative ratings are far more subjective, but the quantitative ratings may not be as relevant to cryptocurrency markets. Rather than being decided by a central authority, KORS qualitative ratings should be decided and interpreted based on consensus.
+
 KORS is designed such that a failure in any one category won't harm the others; a truly holistic rating system. Without further ado, here is the definition of the standard:
 
 # Commits per month
@@ -19,6 +21,10 @@ Take the median number of commits per month over the past three months, divide b
 The number of contributors to the code is paramount not only for the integrity of code but for decentralization as well. Therefore, we assign it a rating of 4 in the weighted system.
 
 Consider the number of code contributors since the project’s inception. This ***DOES NOT*** include code from a coin from which the project in question was forked. Divide this number by four and subtract five. Don’t round. Range is [0, 10]. There is an additional two point penalty if no code is public.
+
+# Development type
+
+Who is behind the project? This in itself can say a great deal - a project led and created only by anonymous people surely is not as trustworthy as one with the backing of known individuals. On the other hand, a corporate-backed cryptocurrency has centralization issues. Given the importance of this
 
 # Completeness
 
