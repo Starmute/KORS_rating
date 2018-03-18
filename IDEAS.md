@@ -50,7 +50,7 @@ Ideas from YLoponom:
 - growth # of wallets/users per week/month/year and trend (if known) <-  like cmc instead of 1h/24h/7d
 - number of used wallets per week/month/year (if known)
 - available use cases (big brands/partnerships = 10, small/large onlineshops = 1-10, darknet = 5, debit credit cards = 5)?
-- distribution of a coin - if known (mostly wales and/or large wallets = 0) 
+- distribution of a coin - if known (mostly whales and/or large wallets = 0) 
 - future outlook and plans / exclusive use-cases / roadmap (team delivers promises?)
 - official mobile and/or web wallets 
 - easy to use/buy/spend (specially for women and non-tech ppl)
