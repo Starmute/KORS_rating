@@ -24,11 +24,16 @@ Consider the number of code contributors since the project’s inception. This *
 
 # Development type
 
-Who is behind the project? This in itself can say a great deal - a project led and created only by anonymous people surely is not as trustworthy as one with the backing of known individuals. On the other hand, a corporate-backed cryptocurrency has centralization issues. Given the importance of this
+Who is behind the project? This in itself can say a great deal - a project led and created only by anonymous people surely is not as trustworthy as one with the backing of known individuals. On the other hand, a corporate-backed cryptocurrency has centralization issues. Given the importance of this category, we assign it a weight of 5 in the weighted system.
+
+Corporation: 0 (ex. Ripple, Zcash)
+Centralized foundation: 3 (ex. Ethereum, IOTA)
+Corporate-assisted development: 6 (Bitmain/BCH, Blockstream/BTC)
+Community-based development: 10 (ex. Monero)
 
 # Completeness
 
-Completeness is a temporary state, and often not too relevant to the future of the coin, but it can impact perception and utility of the coin in the present. Therefore we assign it a weight of 3 in the weighted system.
+Completeness is a temporary state, and often not too relevant to the future of the coin, but it can impact perception and utility of the coin in the present. Therefore we assign it a weight of 4 in the weighted system.
 
 There are four possible scores for this metric:
 
@@ -38,7 +43,7 @@ There are four possible scores for this metric:
 
 - Unfinished (example: Cardano, as despite having a working token, its smart contract platform is not yet in operation): 5
 
-- Working (ex. Monero, Bitcoin, Litecoin): 10
+- Working (ex. Bitcoin, Litecoin): 10
 
 # Tx/s scaling
 
