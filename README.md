@@ -27,8 +27,11 @@ Consider the number of code contributors since the project’s inception. This *
 Who is behind the project? This in itself can say a great deal - a project led and created only by anonymous people surely is not as trustworthy as one with the backing of known individuals. On the other hand, a corporate-backed cryptocurrency has centralization issues. Given the importance of this category, we assign it a weight of 5 in the weighted system.
 
 Corporation: 0 (ex. Ripple, Zcash)
+
 Centralized foundation: 3 (ex. Ethereum, IOTA)
+
 Corporate-assisted development: 6 (Bitmain/BCH, Blockstream/BTC)
+
 Community-based development: 10 (ex. Monero)
 
 # Completeness
