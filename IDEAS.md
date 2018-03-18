@@ -1,5 +1,7 @@
 **Some possible ideas for KORS metrics.**
 
+"Quantitative":
+
 - Commits per month
 
 - Completeness (true/false: does the project do its job already?)
@@ -10,13 +12,19 @@
 
 - Prunability
 
+- Current tx/day
+
+- Current number of wallets (if knowable)
+
+- Coin distribution (if knowable)
+
 - Degree of adoption (how many businesses accept it?)
 
 - Degree of node decentralization (how many nodes are active?)
 
 - Privacy capabilities (boolean)
 
-And a few qualitative:
+"Qualitative" (we can probably convert these into objective parameters):
 
 - Breadth of use case
 
