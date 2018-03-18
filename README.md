@@ -6,6 +6,8 @@ THIS PROJECT IS ***NOT*** COMPLETE. MOST OF THE METRICS ARE NOT EVEN DONE YET. D
 
 Within KORS, there are two types of ratings: weighted and unweighted. Weighted multiplies each category by a weight value according to its importance, whereas unweighted keeps all categories equal. No rating category may exceed the range [0,10] at any time (excepting penalties), and a mathematically calculated value should be restricted to this range if it exceeds it.
 
+KORS is designed such that a failure in any one category won't harm the others; a truly holistic rating system. Without further ado, here is the definition of the standard:
+
 # Commits per month
 
 Code activity should be considered critical to project success. It is the definition of whether a project is alive or dead. We assign it a rating of 3 in the weighted system.
