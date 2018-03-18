@@ -34,6 +34,8 @@ There are four possible scores for this metric:
 
 # Tx/s scaling
 
+Scalability is a highly relevant issue for the future of blockchain technology. We rate it a 6 in the weighted system.
+
 Consider the theoretical maximum transactions per second supported by the network on the base layer. The following scores are allotted to each range:
 
 5-15: 0
@@ -63,6 +65,8 @@ There are a few different varieties, which receive different scores:
 # Node decentralization
 
 Consider the number of currently active nodes for this coin. Divide by 200 and subtract two. Round to the nearest unit. Range is [0, 10].
+
+If there is a central trusted verifier, the score shall be zero regardless of the number of nodes.
 
 # Transaction fees
 
