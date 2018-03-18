@@ -10,6 +10,8 @@ Beyond these, we also propose quantitative and qualitative categories. One can c
 
 KORS is designed such that a failure in any one category won't harm the others; a truly holistic rating system. Without further ado, here is the definition of the standard:
 
+### DEVELOPMENT 
+
 # Commits per month
 
 Code activity should be considered critical to project success. It is the definition of whether a project is alive or dead. We assign it a rating of 3 in the weighted system.
@@ -36,6 +38,20 @@ Community-based development: 10 (ex. Monero)
 
 If no known individual has worked with the project (this includes well-known but anonymous members of the crypto community), a penalty of ten points shall be applied.
 
+# Launch type
+
+Consider the method by which the coin was launched. The following methods receive the corresponding scores:
+
+ICO, not sold out: 0
+
+ICO, sold out: 2
+
+Partial premine + subsequent mining: 4 (ex. Bytecoin)
+
+Chain fork / Airdrop: 6
+
+Open mining / Initial faucet: 10
+
 # Completeness
 
 Completeness is a temporary state, and often not too relevant to the future of the coin, but it can impact perception and utility of the coin in the present. Therefore we assign it a weight of 4 in the weighted system.
@@ -49,6 +65,8 @@ There are four possible scores for this metric:
 - Unfinished (example: Cardano, as despite having a working token, its smart contract platform is not yet in operation): 5
 
 - Working (ex. Bitcoin, Litecoin): 10
+
+### TECHNICAL CAPABILITIES
 
 # Tx/s scaling
 
@@ -103,20 +121,6 @@ Optional privacy hiding *all* transaction details: 7.5 (ex. Zcash)
 Mandatory privacy hiding *some* transaction details: 7.5 (ex. Bytecoin, Electroneum)
 
 Mandatory privacy hiding *all* transaction details: 10 (ex. Monero)
-
-# Launch type
-
-Consider the method by which the coin was launched. The following methods receive the corresponding scores:
-
-ICO, not sold out: 0
-
-ICO, sold out: 2
-
-Partial premine + subsequent mining: 4 (ex. Bytecoin)
-
-Chain fork / Airdrop: 6
-
-Open mining / Initial faucet: 10
 
 # Scripting capabilities
 
