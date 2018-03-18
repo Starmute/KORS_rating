@@ -98,4 +98,18 @@ Chain fork / Airdrop: 5
 
 Open mining / Initial faucet: 10
 
+# Scripting capabilities
+
+Scripting is an important aspect of cryptocurrency, and is critical to features such as atomic swaps, so we'll assign it a weight of 3 in the weighted system. The following scores are awarded:
+
+None: 0
+
+Bare: 2.5 (MimbleWimble scriptless scripts / Multisig only)
+
+Limited: 5 (Bitcoin Script)
+
+Turing complete: 10 (Ethereum)
+
+An incomplete platform, such as EOS or Cardano, that *plans* to have scripting capability, will receive a score of 0 until its scripting capabilities are activated.
+
 Still working on the rest of the metrics but that’s a nice start.
