@@ -8,7 +8,7 @@ Within KORS, there are two types of ratings: weighted and unweighted. Weighted m
 
 Code activity should be considered critical to project success. It is the definition of whether a project is alive or dead. We assign it a rating of 3 in the weighted system.
 
-Take the median number of commits per month over the past three months, divide by 2, and subtract 5. Don’t round. Range is [0, 10], unless commits are zero, in which an additional five points will be deducted.
+Take the median number of commits per month over the past three months, divide by 2, and subtract 5 (`R=(N/2)-5`). Don’t round. Range is [0, 10], unless commits are zero, in which an additional five points will be deducted.
 
 # Number of contributors
 
