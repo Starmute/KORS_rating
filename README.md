@@ -6,7 +6,7 @@ Within KORS, there are two types of ratings: weighted and unweighted. Weighted m
 
 # Commits per month
 
-Code activity should be considered extremely
+Code activity should be considered critical to project success. It is the definition of whether a project is alive or dead. We assign it a rating of 3 in the weighted system.
 
 Take the median number of commits per month over the past three months, divide by 2, and subtract 5. Don’t round. Range is [0, 10], unless commits are zero, in which an additional five points will be deducted.
 
@@ -62,7 +62,7 @@ There are a few different varieties, which receive different scores:
 
 Consider the number of currently active nodes for this coin. Divide by 200 and subtract two. Round to the nearest unit. Range is [0, 10].
 
-#Transaction fees
+# Transaction fees
 
 Consider the median transaction fee in United States dollars. Multiply by ten and subtract this value from 10. Exception: For median fees less than one US cent, the score is 7.5, *UNLESS* a transaction spam prevention mechanism, such as required PoW-per-transaction, is employed, in which case the score is 10. Range is [0, 10]. (Note: might change this to fee-per-kB related measure.)
 
