@@ -34,6 +34,8 @@ Corporate-assisted development: 6 (Bitmain/BCH, Blockstream/BTC)
 
 Community-based development: 10 (ex. Monero)
 
+If no known individual has worked with the project (this includes well-known but anonymous members of the crypto community), a penalty of ten points shall be applied.
+
 # Completeness
 
 Completeness is a temporary state, and often not too relevant to the future of the coin, but it can impact perception and utility of the coin in the present. Therefore we assign it a weight of 4 in the weighted system.
