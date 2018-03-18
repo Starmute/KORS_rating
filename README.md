@@ -92,11 +92,13 @@ Mandatory privacy hiding *all* transaction details: 10 (ex. Monero)
 
 Consider the method by which the coin was launched. The following methods receive the corresponding scores:
 
-ICO: 0
+ICO, not sold out: 0
 
-Partial premine + subsequent mining: 2.5
+ICO, sold out: 2
 
-Chain fork / Airdrop: 5
+Partial premine + subsequent mining: 4 (ex. Bytecoin)
+
+Chain fork / Airdrop: 6
 
 Open mining / Initial faucet: 10
 
