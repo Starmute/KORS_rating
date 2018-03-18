@@ -12,19 +12,19 @@ KORS is designed such that a failure in any one category won't harm the others; 
 
 # DEVELOPMENT 
 
-#### Commits per month
+## Commits per month
 
 Code activity should be considered critical to project success. It is the definition of whether a project is alive or dead. We assign it a rating of 3 in the weighted system.
 
 Take the median number of commits per month over the past three months, divide by 2, and subtract 5 (`R=(N/2)-5`). Don’t round. Range is [0, 10], unless commits are zero, in which an additional five points will be deducted.
 
-#### Number of contributors
+## Number of contributors
 
 The number of contributors to the code is paramount not only for the integrity of code but for decentralization as well. Therefore, we assign it a rating of 4 in the weighted system.
 
 Consider the number of code contributors since the project’s inception. This ***DOES NOT*** include code from a coin from which the project in question was forked. Divide this number by four and subtract five. Don’t round. Range is [0, 10]. There is an additional two point penalty if no code is public.
 
-#### Development type
+## Development type
 
 Who is behind the project? This in itself can say a great deal - a project led and created only by anonymous people surely is not as trustworthy as one with the backing of known individuals. On the other hand, a corporate-backed cryptocurrency has centralization issues. Given the importance of this category, we assign it a weight of 5 in the weighted system.
 
@@ -38,7 +38,7 @@ Community-based development: 10 (ex. Monero)
 
 If no known individual has worked with the project (this includes well-known but anonymous members of the crypto community), a penalty of ten points shall be applied.
 
-#### Launch type
+## Launch type
 
 Consider the method by which the coin was launched. The following methods receive the corresponding scores:
 
@@ -52,7 +52,7 @@ Chain fork / Airdrop: 6
 
 Open mining / Initial faucet: 10
 
-#### Completeness
+## Completeness
 
 Completeness is a temporary state, and often not too relevant to the future of the coin, but it can impact perception and utility of the coin in the present. Therefore we assign it a weight of 4 in the weighted system.
 
@@ -68,7 +68,7 @@ There are four possible scores for this metric:
 
 # TECHNICAL CAPABILITIES
 
-#### Tx/s scaling
+## Tx/s scaling
 
 Scalability is a highly relevant issue for the future of blockchain technology. We rate it a 6 in the weighted system.
 
@@ -86,7 +86,7 @@ Consider the theoretical maximum transactions per second supported by the networ
 
 A coin with a dynamic blocksize, such as Monero, shall receive a score of 6 for this metric.
 
-#### Prunability
+## Prunability
 
 Prunability is the ability to safely remove blockchain history while retaining a full node. It's quite important, but often reserved for future applications, so we assign it a weight of 2 in the weighted system.
 
@@ -98,17 +98,17 @@ There are a few different varieties, which receive different scores:
 
 10 points - Passive pruning; the chain is pruned as it is constructed. An example of this would be Grin, or Nano once its universal blocks are implemented.
 
-#### Node decentralization
+## Node decentralization
 
 Consider the number of currently active nodes for this coin. Divide by 200 and subtract two. Round to the nearest unit. Range is [0, 10].
 
 If there is a central trusted verifier, the score shall be zero regardless of the number of nodes.
 
-#### Transaction fees
+## Transaction fees
 
 Consider the median transaction fee in United States dollars. Multiply by ten and subtract this value from 10. Exception: For median fees less than one US cent, the score is 7.5, *UNLESS* a transaction spam prevention mechanism, such as required PoW-per-transaction, is employed, in which case the score is 10. Range is [0, 10]. (Note: might change this to fee-per-kB related measure.)
 
-#### Privacy capabilities
+## Privacy capabilities
 
 Consider the type of privacy, if any, that the coin employs.
 
@@ -122,7 +122,7 @@ Mandatory privacy hiding *some* transaction details: 7.5 (ex. Bytecoin, Electron
 
 Mandatory privacy hiding *all* transaction details: 10 (ex. Monero)
 
-#### Scripting capabilities
+## Scripting capabilities
 
 Scripting is an important aspect of cryptocurrency, and is critical to features such as atomic swaps, so we'll assign it a weight of 3 in the weighted system. The following scores are awarded:
 
