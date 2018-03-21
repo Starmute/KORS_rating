@@ -164,4 +164,10 @@ If the only available web wallet is non-trustless (i.e. you do not own your keys
 
 ## TODO
 
+# QUALITATIVE SECTION
+
+**THIS SECTION IS NOT AS OBJECTIVE. YOU ARE FREE TO EXCLUDE THIS FROM YOUR RATINGS IF YOU WISH.**
+
+All ratings in the qualitative section shall be decided by consensus.
+
 Still working on the rest of the metrics but that’s a nice start.
