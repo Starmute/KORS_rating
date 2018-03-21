@@ -136,4 +136,8 @@ Turing complete: 10 (Ethereum)
 
 An incomplete platform, such as EOS or Cardano, that *plans* to have scripting capability, will receive a score of 0 until its scripting capabilities are activated.
 
+# User Experience
+
+## TODO
+
 Still working on the rest of the metrics but that’s a nice start.
