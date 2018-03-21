@@ -160,7 +160,7 @@ Android
 
 iOS
 
-If the only available web wallet is non-trustless (i.e. you do not own your keys), a penalty of one point will be deducted.
+If the only available web wallet is non-trustless (i.e. you do not own your keys), a penalty of one point shall be applied.
 
 ## TODO
 
