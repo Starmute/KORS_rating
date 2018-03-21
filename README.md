@@ -138,6 +138,30 @@ An incomplete platform, such as EOS or Cardano, that *plans* to have scripting c
 
 # User Experience
 
+## Wallet Availability
+
+The availability of wallets is of paramount importance. Without the ability to store and transfer your coins from multiple types of devices, mass adoption is impossible. For this reason we assign this section a weight of 4 in the weighted system.
+
+Each of the following is worth ONE point:
+
+Command-Line Interface
+
+Desktop Full Node
+
+Desktop Light Wallet
+
+Web Wallet
+
+Each of the following is worth TWO points:
+
+Hardware Wallet
+
+Android
+
+iOS
+
+If the only available web wallet is non-trustless (i.e. you do not own your keys), a penalty of one point will be deducted.
+
 ## TODO
 
 Still working on the rest of the metrics but that’s a nice start.
