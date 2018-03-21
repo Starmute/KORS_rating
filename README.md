@@ -142,7 +142,7 @@ An incomplete platform, such as EOS or Cardano, that *plans* to have scripting c
 
 The availability of wallets is of paramount importance. Without the ability to store and transfer your coins from multiple types of devices, mass adoption is impossible. For this reason we assign this section a weight of 4 in the weighted system.
 
-Each of the following is worth ONE point:
+##### Each of the following is worth ONE point:
 
 Command-Line Interface
 
@@ -152,7 +152,7 @@ Desktop Light Wallet
 
 Web Wallet
 
-Each of the following is worth TWO points:
+##### Each of the following is worth TWO points:
 
 Hardware Wallet
 
