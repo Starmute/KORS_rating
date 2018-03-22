@@ -59,5 +59,26 @@ Ideas from YLoponom:
 - launch type: not sold out ico - 2.5
 - marketing
 - sort by type (currency, contracts/platform, app, infrastructure, ponzi = -10, ...)
+- rating+ranking by score and additionally/optionally a fairly calculated pricerange would be interesting imo - ex.: price of trx is not fundamental, value is zero atm -> so everybody and specially noobs can choose on its own if a crypto is worth buy/hodl or better sell (because of many reasons like overrating, undervalued, hype, etc.)
+- listed on small/large exchange(s) = decentral (0-1), central (0-1) and if crypto can be bought directly via fiat/credit card (y/n 1/0)
+- competition (how much cryptos already exists in this category/with this idea): 1 - 10
+- currency rating = already accepted as currency in some countries by gov/ppl?
+- risks (easy to attack, already hacked in the past, legal reasons, etc.)
 
 
+
+advantages KORS-ranking:
+- no pump & dump / no manipulation
+- real market value (not all in one boat -> not just one (btc) as leading currency
+- cryptos can be compared by category
+- fair, easy to understand and transparent
+- ppl do not look just at price and are getting informed, how value (!) of "their" coins is generated
+
+disadvantages cmc:
+- ranking only by mcap (cryptos/projekts only get attention when price has already grown or is a top 100 crypto - next to scams/ponzis)
+- manipulation (ex.: korean exchanges/prices were excluded without warning)
+- no warnings and indirect ad scams/ponzis -> ex.: "wow, bitconnect is ranked in top 10" = must be legit
+- danger of confusion/brand name misuse -> ex.: "wow, bitcoin gold/cash is top 20" -> looks cheap, sounds good, high ranked
+- listed price = ex.: 1 bitcoin and not 1 satoshi (noobs: "1 whole bitcoin is too expensive, will buy cheaper coins = feels more")
+- total mcap = how much fiatmoney is really into crypto? nobody really knows - except theter (if its backed 100% by dollar)
+- mcap = unrealistic circulation supply (ex.: millions of bitcoins are lost and are included as available)
